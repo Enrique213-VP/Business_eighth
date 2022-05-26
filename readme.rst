@@ -6,13 +6,13 @@ Descripcion: En este repositorio encontrará el desarrollo de un proyecto enfoca
 
  
 
-Sergio Vargas 
+Sergio Vargas Perraza 
 
 Carlos  Villalba  
 
-Oscar  Perilla 
+Oscar  Periplagios Dominguez
 
-Angelito Cacorrreño
+Angelito Carreño Barriga
 
-Juano Falso
+Juano Quintero
 
